@@ -31,7 +31,7 @@ Spring schedulers are highly configurable and can be customized to meet the spec
 
 ## **Scan By**
 
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=mGunawardhana_Java-jobs--spring-schedulers)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=mGunawardhana_Java-jobs--spring-schedulers)
 
 ## **Project Contact Person ( Researcher/Associate Software Engineer )**
 
