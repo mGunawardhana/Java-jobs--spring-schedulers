@@ -27,8 +27,7 @@ Spring schedulers are highly configurable and can be customized to meet the spec
 
 ## **Quality Gate Status**
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mGunawardhana_Java-jobs--spring-schedulers&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mGunawardhana_Java-jobs--spring-schedulers)
-
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mGunawardhana_Java-jobs--spring-schedulers)](https://sonarcloud.io/summary/new_code?id=mGunawardhana_Java-jobs--spring-schedulers)
 
 ## **Scan By**
 
